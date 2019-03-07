@@ -1,0 +1,5 @@
+Begin 
+	A:= 22;
+	C:= A-2;
+	WRITE (C);
+END
